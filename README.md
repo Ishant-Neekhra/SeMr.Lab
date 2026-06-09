@@ -51,15 +51,17 @@ To create a centralized academic operating system where engineering students can
 
 ### Landing Page
 
+<img width="1366" height="768" alt="Landing Page" src="https://github.com/user-attachments/assets/7c9afa93-9da5-4929-ba98-0d85f1d1fc14" />
 
 
 ### Dashboard
 
+<img width="1366" height="766" alt="Dashboard Screen" src="https://github.com/user-attachments/assets/93769eb5-7212-4929-82bb-6a8987b9083b" />
 
 
 ### AI Assistant
 
-
+<img width="1366" height="768" alt="AI Assistant" src="https://github.com/user-attachments/assets/81109f2d-2888-4a4f-a86a-371360f84cef" />
 
 ---
 
